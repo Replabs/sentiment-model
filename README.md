@@ -1,7 +1,5 @@
-# Flask API
+# TwitRep Sentiment model
 
-This is a flask API deployed on Google Cloud Run.
+This is a Flask API deployed on Google Cloud Run wrapping the pytorch embedding model.
 
-To deploy, push to main.
-
-Available at https://replabs-flask-app-aucndxjanq-ew.a.run.app
+Based on https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment
