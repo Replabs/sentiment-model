@@ -1,3 +1,4 @@
 *.bin
 *.h5
+*.model
 api_keys.py
